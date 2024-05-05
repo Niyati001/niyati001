@@ -5,8 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on flutter 
-- 🌱 I’m currently learning java
+- 🔭 I’m currently working on ML
 - 👯 I’m looking to collaborate on coding python, R programming, c, dart, and java
 - 🤔 I’m looking for help with programming
 - 💬 Ask me about collab
