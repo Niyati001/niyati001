@@ -7,10 +7,10 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on flutter 
 - 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate on coding java,c,dart
+- 👯 I’m looking to collaborate on coding python, R programming, c, dart, and java
 - 🤔 I’m looking for help with programming
 - 💬 Ask me about collab
-- 📫 How to reach me: niyati.tayal1@gmail.com
+- 📫 How to reach me: niyati.work1@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: smartworking
+- ⚡ Fun fact: smartworking, intellectual and problem solving mindset
 
